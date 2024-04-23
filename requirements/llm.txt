@@ -1,7 +1,7 @@
 charset_normalizer
 cpm_kernels
 fastapi
-gradio>=3.40.0
+gradio==3.50.2
 sentencepiece
 tiktoken
 uvicorn
